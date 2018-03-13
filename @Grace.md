@@ -1,8 +1,84 @@
 @Grace
 
+2018-03-12
+
+**Distribute** UK /[dɪˈstrɪbju:t/ US /dɪˈstrɪbjut/
+
+1. 助记,
+
+   1) dis-+tribute
+
+   **dis-**：前缀，来自拉丁语dis-，表示“分开，散开”，引申词义“离开，无，没有，缺乏，表相反等”，‘apart’
+
+   **tribute**：贡物，字面意思就是“纳贡的”。来自拉丁词根tribuere，表示部落间的财富分配或其他，“支付、给予、分配”， ‘assign‘。最早的tribute表示部落里族长主持分战利品，或者进贡给某个部落的贡品，从而作词根时有了“给予”的含义，如contribute(贡献)、distribute(分配)、retribution(报答，报偿)等词。其中trib-表示“部落”，原指古罗马最初的三个部落，引申词义为“贡品、贡金等”，来自tri-’三‘ + be-’存在‘。
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin distribut- ‘divided up’, from the verb distribuere, from dis- ‘apart’ + tribuere ‘assign’.
+
+   **Etymology**
+
+   early 15c., "to deal out or apportion," from Latin distributus, past participle of distribuere "to divide, distribute" (see [distribution](https://www.etymonline.com/word/distribution?ref=etymonline_crossreference)). Related: Distributable; distributed; distributing.
+
+   **distribution** (n.)
+
+   mid-14c., from Old French distribution (13c.) and directly from Latin distributionem (nominative distributio) "a division, distribution," noun of action from past participle stem of distribuere "deal out in portions," from dis- "individually" + tribuere "assign, allot" (see [tribute](https://www.etymonline.com/word/tribute?ref=etymonline_crossreference)).
+
+   **tribute** (n.)
+
+   mid-14c., "stated sum of money or other valuable consideration paid by one ruler or country to another in acknowledgment of submission or as the price of peace or protection," from Anglo-French tribute, Old French tribut and directly from Latin tributum "tribute, a stated payment, a thing contributed or paid," noun use of neuter of tributus, past participle of tribuere "to pay, assign, grant," also "allot among the tribes or to a tribe," from tribus (see [tribe](https://www.etymonline.com/word/tribe?ref=etymonline_crossreference)). Sense of "offering, gift, token" is first recorded 1580s.
+
+   **tribe** (n.)
+
+   mid-13c., "one of the twelve divisions of the ancient Hebrews," from Old French tribu or directly from Latin tribus "one of the three political/ethnic divisions of the original Roman state" (Tites, Ramnes, and Luceres, corresponding, perhaps, to the Latins, Sabines, and Etruscans), later, one of the 30 political divisions instituted by Servius Tullius (increased to 35 in 241 B.C.E.), of unknown origin. Perhaps from tri- "three" + *bheue-, root of the verb [be](https://www.etymonline.com/word/be?ref=etymonline_crossreference). Others connect the word with the PIE root *treb- "a dwelling" (see [tavern](https://www.etymonline.com/word/tavern?ref=etymonline_crossreference)).
+
+3. 释义,
+
+   v. 1)分发；分配**to give things to a large number of people; to share sth between a number of people**
+
+   ​    2)分销 **to send goods to shops/stores and businesses so that they can be sold**
+
+   ​    3)使散开；使分布；分散**to spread sth, or different parts of sth, over an area**  ​
+
+4. 相关词语和词组
+
+   **tribute** n. 贡物，礼物，颂词，致敬
+
+   **tributary** adj. 纳贡的，附属的，辅助的n.进贡国，附属国，支流
+
+   **contribute** v. 贡献，捐献，出力，投稿
+
+   **contribution** n. 贡献；捐献；投稿
+
+   **attribute** vt. 归属，把……归于
+
+   ​                   n.属性，特质
+
+   **attribution** n. 归因；属性；归属
+
+   **distributable** adj. 可分配的，可分成类的
+
+   **distributary** n. 分流，支流; 支渠; 叉流; 分流式
+
+   **distributed** adj. 分布式的
+
+   ​                       v. 散发; 分配( distribute的过去式和过去分词); 分销; [常用被动语态]将…分类(into)
+
+   **distributing** v.散发; 分销; 分配( distribute的现在分词 ); [常用被动语态]将…分类(into)
+
+   **distribution** n. 1)分布，分配；2)分发，分送；3)(商品)经销，分销
+
+   **distributive** adj. 经销的，分销的
+
+   **distributor** n. 1)经销商，分销商；2)(发动机的)分电器
+
+
+
 2018-03-09
 
-Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
+**Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
 
 1. 助记,
 
@@ -317,8 +393,6 @@ Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
 
 
 
-
-=======
 @Grace
 
 2018-03-08

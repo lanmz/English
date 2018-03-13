@@ -128,3 +128,7 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
 
    1. Grace,aqua完成第一次pull request
    2. @aqua 完成PythonThink目录的查询阅读.
+
+- 2018-03-11 Su
+
+   1. @星辰 入伙,协助加快小组学习python的进度.
